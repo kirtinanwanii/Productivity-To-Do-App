@@ -5,22 +5,22 @@ It helps users manage daily tasks efficiently by allowing them to add, mark, and
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 View the app here:  [Live Demo](https://kirtinanwanii.github.io/Productivity-To-Do-App/)  
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Add new tasks  
-- ✅ Mark tasks as completed  
-- ✅ Delete tasks  
-- ✅ Simple and user-friendly interface  
-- ✅ Responsive design  
+-  Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
+-  Simple and user-friendly interface  
+- Responsive design  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Structure of the app  
 - **CSS** – Styling and layout  
